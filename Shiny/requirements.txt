@@ -1,0 +1,9 @@
+shiny
+shinywidgets
+faicons
+plotly
+pandas
+statsmodels
+dash
+dash-bootstrap-components==1.7.0
+numpy

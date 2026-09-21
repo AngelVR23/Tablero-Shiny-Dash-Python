@@ -1,6 +1,0 @@
-  shiny
-  shinywidgets
-  faicons
-  plotly
-  pandas
-  statsmodels
